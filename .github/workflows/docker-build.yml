@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: luism78/flask-docker-example:latest
+          tags: luis78/flask-docker-example:latest
